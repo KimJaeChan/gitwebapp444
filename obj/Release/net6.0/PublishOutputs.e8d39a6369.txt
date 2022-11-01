@@ -1,0 +1,7 @@
+C:\Users\jch85\Desktop\빅데이터 분석\클라우드 빅데이터\vscgit\bin\Release\net6.0\publish\vscgit.exe
+C:\Users\jch85\Desktop\빅데이터 분석\클라우드 빅데이터\vscgit\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\jch85\Desktop\빅데이터 분석\클라우드 빅데이터\vscgit\bin\Release\net6.0\publish\appsettings.json
+C:\Users\jch85\Desktop\빅데이터 분석\클라우드 빅데이터\vscgit\bin\Release\net6.0\publish\vscgit.dll
+C:\Users\jch85\Desktop\빅데이터 분석\클라우드 빅데이터\vscgit\bin\Release\net6.0\publish\vscgit.deps.json
+C:\Users\jch85\Desktop\빅데이터 분석\클라우드 빅데이터\vscgit\bin\Release\net6.0\publish\vscgit.runtimeconfig.json
+C:\Users\jch85\Desktop\빅데이터 분석\클라우드 빅데이터\vscgit\bin\Release\net6.0\publish\vscgit.pdb
